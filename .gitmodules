@@ -1,0 +1,3 @@
+[submodule "sub_mod_repo/rep26"]
+	path = sub_mod_repo/rep26
+	url = https://github.com/Chandru-25-N/rep26.git
